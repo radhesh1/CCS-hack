@@ -14,7 +14,7 @@ export const Logo = props => {
 
         <Link href="/">
                 <HStack >
-                    <Box w={65} >
+                    <Box w={250} >
                         <Image src={useColorModeValue('./logo_light.png','./logo_dark.png')} />
                     </Box>
 
@@ -23,11 +23,6 @@ export const Logo = props => {
                     <Spacer w={2}>
                     </Spacer>
 
-
-                    <Heading as="h1" size="xl"
-                        fontWeight='bold'>
-                        SAHAYAK
-                    </Heading>
                 </HStack>
         </Link>
 
