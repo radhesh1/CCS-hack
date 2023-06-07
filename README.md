@@ -2,12 +2,14 @@
 ## Sahayak:
 # The first call to medical help.
 
-# Contributions:
-Project Idea:Chatinaya Jayant and Radhesh Goel, <br>
-Frontend:Dev Goyal in Next.js,<br>
-Backend:Pushan Agarwal,<br>
-UI/UI:Dev Goyal,
-
 # Concept:
 At times of natural disasters and medical emergencies,this web app(PWA) will help the users to reach their nearest of hospitals,bloodbanks.
 No. of beds and pharmacy(medicine,blood banks etc.) would be also available in realtime so that users will be suggested the best place acc. to their prefrence.
+
+# Contributions:
+Project Idea:Chatinaya Jayant and Radhesh Goel, <br>
+Frontend:Dev Goyal in Next.js,<br>
+Backend:Pushan Agarwal,<br> 
+UI/UI:Dev Goyal,
+Backend Repository:https://github.com/PushanAgrawal/ccs-internal-hack,
+
