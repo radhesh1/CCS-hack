@@ -9,7 +9,7 @@ No. of beds and pharmacy(medicine,blood banks etc.) would be also available in r
 # Contributions:
 Project Idea:Chatinaya Jayant and Radhesh Goel, <br>
 Frontend:Dev Goyal in Next.js,<br>
-Backend:Pushan Agarwal,Django<br> 
+Backend:Pushan Agarwal in Django<br> 
 UI/UI:Dev Goyal,Radhesh<br>
 Backend Repository:https://github.com/PushanAgrawal/ccs-internal-hack,<br>
 Frontend Deployed (Currently very basic):https://sahayak-nine.vercel.app/,<br>
