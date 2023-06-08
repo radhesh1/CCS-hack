@@ -3,10 +3,10 @@
 # The first call to medical help.
 
 # Contributions:
-Project Idea:Chatinaya Jayant and Radhesh Goel, <br>
-Frontend:Dev Goyal in Next.js,<br>
-Backend:Pushan Agarwal,<br>
-UI/UI:Dev Goyal,
+Project Idea:Chaitanya Jayant and Radhesh Goel <br>
+Frontend:Dev Goyal in Next.js<br>
+Backend:Pushan Agarwal<br>
+UI/UX:Dev Goyal
 
 # Concept:
 At times of natural disasters and medical emergencies,this web app(PWA) will help the users to reach their nearest of hospitals,bloodbanks.
