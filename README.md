@@ -12,7 +12,7 @@ At times of natural disasters and medical emergencies,this web app(PWA) will hel
 Project Idea:Chaitanya Jayant and Radhesh Goel <br>
 Frontend:Dev Goyal in Next.js,<br>
 Backend:Pushan Agarwal in Django<br> 
-UI/UI:Dev Goyal,Radhesh<br>
+UI/UX:Dev Goyal,Radhesh,Chaitanya<br>
 Backend Repository:https://github.com/PushanAgrawal/ccs-internal-hack,<br>
 Frontend Deployed (Currently very basic):https://sahayak-nine.vercel.app/,<br>
 Figma URL:https://www.figma.com/file/oKb0xSeoIhlUUCSOi40aDf/Sahayak?type=design&node-id=0%3A1&t=SyYqCQufoB1uJUPr-1,<br>
