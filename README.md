@@ -3,11 +3,13 @@
 # The first call to medical help.
 
 # Concept:
-At times of natural disasters and medical emergencies,this web app(PWA) will help the users to reach their nearest of hospitals,bloodbanks.
-No. of beds and pharmacy(medicine,blood banks etc.) would be also available in realtime so that users will be suggested the best place acc. to their prefrence.
+At times of natural disasters and medical emergencies,this web app(PWA) will help the users by providing information such as:
+->Number of beds(ICU and Emergency Wards) at the nearest Hospital.
+->Availability of medicine at the Hospitals
+->Nearest Blood Bank details would also be provided in detail to the users in Real Time so that the Web App is able to suggest the best place according to their prefrence.
 
 # Contributions:
-Project Idea:Chatinaya Jayant and Radhesh Goel, <br>
+Project Idea:Chaitanya Jayant and Radhesh Goel <br>
 Frontend:Dev Goyal in Next.js,<br>
 Backend:Pushan Agarwal in Django<br> 
 UI/UI:Dev Goyal,Radhesh<br>
