@@ -4,9 +4,9 @@
 
 # Concept:
 At times of natural disasters and medical emergencies,this web app(PWA) will help the users by providing information such as:
-->Number of beds(ICU and Emergency Wards) at the nearest Hospital.
-->Availability of medicine at the Hospitals
-->Nearest Blood Bank details would also be provided in detail to the users in Real Time so that the Web App is able to suggest the best place according to their prefrence.
+# ->Number of beds(ICU and Emergency Wards) at the nearest Hospital.
+# ->Availability of medicine at the Hospitals
+# ->Nearest Blood Bank details would also be provided in detail to the users in Real Time so that the Web App is able to suggest the best place according to their prefrence.
 
 # Contributions:
 Project Idea:Chaitanya Jayant and Radhesh Goel <br>
