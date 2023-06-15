@@ -28,10 +28,8 @@ align-items: center;
 z-index: 99;
 }
 
-.logo{
-    font-size: 2em;
-    color: #fff;
-    user-select: none;   
+.img .logoimage{
+    width: 350px;
 }
 
 .navigation a {
@@ -59,7 +57,6 @@ z-index: 99;
 
 .navigation a:hover::after{
     transform: scaleX(1);
-  
 }
 
 .navigation .btnLogin-popup{
